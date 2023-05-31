@@ -17,3 +17,9 @@ Browse url obtained from web hosting section or index.html.  Access denied?
 Highlight all objects within the bucket, make public using ACL obtained at action. 
 
 Refresh browser. 
+
+![image](https://github.com/Edosaig/Hosting-Static-Website-in-AWS-S3/assets/107155943/8c30ff63-447d-4458-8aca-e393a7f9128f)
+![image](https://github.com/Edosaig/Hosting-Static-Website-in-AWS-S3/assets/107155943/d84d3d69-483f-4ec6-8042-18a12c4e76fa)
+
+
+# If access is still denied, edit bucket policy with either codes. 
